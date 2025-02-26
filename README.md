@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @daniellameleroo<br>- 👀 I’m interested in gaming, software development, and web development...<br>- 🌱 I’m currently learning Full Stack Development and Data Structure in Java...<br>- 💻I'm currently taking Data Structure, and Electrical System Analysis...<br>- 🐮I'm enrolled in a undergraduate research in developing smart animal farming by using images, sensor, and information technology to monitor animal health...<br>- 📫 How to reach me daniella.melero@upr.edu...<br>- 😄 Pronouns: She/her...
+- 👋 Hi, I’m @daniellameleroo<br>- 👀 I’m interested in gaming, software development, and web development...<br>- 🌱 I’m currently learning Full Stack Development and Data Structure in Java...<br>- 💻I'm currently taking Programming Languages and Algoritms and Design...<br>- 🐮I'm enrolled in a undergraduate research in developing smart animal farming by using images, sensor, and information technology to monitor animal health...<br>- 📫 How to reach me daniella.melero@upr.edu...<br>- 😄 Pronouns: She/her...
 
 
 ## 🌐 Socials:
