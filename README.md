@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @daniellameleroo<br>- 🌱 I’m currently learning Computer Arquitecture, Design for SWE <br>- 💻I'm currently taking Computer Arquitecture and Design for Software Development<br>-📫 How to reach me daniella.melero@upr.edu...<br>- 😄 Pronouns: She/her...
+- 👋 Hi, I’m @daniellameleroo<br>- 🌱 I’m currently learning how to work efficently with databases and create a robust backend system <br>- 💻Databases, Operating System, and Computer Network<br>-📫 How to reach me daniella.melero@upr.edu...<br>- 😄 Pronouns: She/her...
 
 
 ## 🌐 Socials:
